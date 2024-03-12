@@ -1,0 +1,32 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/cygwin/home/prave/Desktop/mesi_isc_latest/mesi_isc/trunk/src/rtl
+vmesi_isc
+!s110 1710002787
+!i10b 1
+!s100 lJaNEBkeRkl]_Sf=88=Hl2
+Ih5W@@Ym796DnZVP=<TTXh3
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1357255504
+8mesi_isc.v
+Fmesi_isc.v
+L0 48
+OL;L;10.6c;65
+r1
+!s85 0
+31
+!s108 1710002787.000000
+!s107 mesi_isc_define.v|mesi_isc.v|
+!s90 -coveropt|3|+cover|mesi_isc.v|
+!i113 0
+!s102 -coveropt 3 +cover
+o-coveropt 3 +cover -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0
